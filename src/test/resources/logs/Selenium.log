@@ -1,0 +1,13 @@
+12:17:56,176 DEBUG devpinoyLogger : 59 - Config file loaded !!!
+12:17:56,179 DEBUG devpinoyLogger : 74 - OR file loaded !!!
+12:18:03,399 DEBUG devpinoyLogger : 121 - Navigated to : http://www.zoho.com/
+12:18:05,371 DEBUG devpinoyLogger : 147 - Clicking on an Element : loginlink_CSS
+12:18:05,524 DEBUG devpinoyLogger : 161 - Typing in an Element : email_CSS entered value as : automationengnr@gmail.com
+12:18:05,624 DEBUG devpinoyLogger : 147 - Clicking on an Element : nextbtn_CSS
+12:18:05,854 DEBUG devpinoyLogger : 161 - Typing in an Element : password_CSS entered value as : Akash@571
+12:18:06,057 DEBUG devpinoyLogger : 147 - Clicking on an Element : nextbtn1_CSS
+12:18:06,125 DEBUG cache : 45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+12:18:06,128 DEBUG cache : 45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+12:18:06,130 DEBUG cache : 45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+12:18:06,133 DEBUG cache : 45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+12:18:06,134 DEBUG cache : 45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Akash/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
